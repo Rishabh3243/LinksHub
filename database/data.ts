@@ -9,6 +9,7 @@ export const sidebarData: ISidebar[] = [
   {
     category: 'frontend',
     subcategory: [
+      { name: 'angular', url: '/angular'},
       { name: 'react js', url: '/react'},
       { name: 'images', url: '/images' },
       { name: 'fonts', url: '/fonts' },
